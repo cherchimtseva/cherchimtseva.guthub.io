@@ -1,0 +1,178 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Чесмесский бой</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Анастасия Черчимцева</persName>
+                <resp>создание TEI документа, выделение в тексте прямой речи/ персоналий/мест</resp>
+            </respStmt>
+         </fileDesc>
+         <profileDesc>     
+             <particDesc>
+					<listPerson type="artistic">
+					<person xml:id="01">
+                         <persName>Турки</persName>
+					</person>
+					<person xml:id="02">
+                         <persName>Русские</persName>
+					</person>
+					<person xml:id="03">
+                         <persName>Бей-Гассан</persName>
+					</person>
+					<person xml:id="04">
+                         <persName>Орлов</persName>
+					</person>
+					<person xml:id="05">
+                         <persName>Феодор</persName>
+					</person>
+					<person xml:id="06">
+                         <persName>Алексей</persName>
+					</person>
+					<listPerson type="mythological">
+					<person xml:id="07">
+                         <persName>Нептун</persName>
+					</person>
+					<person xml:id="08">
+                         <persName>Юпитер</persName>
+					</person>
+					<person xml:id="09">
+                         <persName>Минерва</persName>
+					</person>
+					<person xml:id="10">
+                         <persName>Ахиллес</persName>
+					</person>
+					<person xml:id="11">
+                         <persName>Антилох</persName>
+					</person>
+					<person xml:id="12">
+                         <persName>Патрокол</persName>
+					</person>
+					<listPerson type=«historical»>
+					<person xml:id="13">
+                         <persName>Гомер</persName>
+                    </person>
+                 </listPerson>
+              </particDesc>
+          </profileDesc>
+    </teiHeader>
+    <text>    
+Конечно, устрашил чудовищ, там живущих!
+Рукой за край схватясь, иной разит <person xml:id="01"><persName>врага</persName></person>;
+Другому жизнь <person xml:id="01"><persName>его</persName></person> не столько дорога,
+Как честь отечества или монарша слава;
+Таких рождаешь ты, <placeName>Российская держава</placeName>!
+Тогда над <person xml:id="01"><persName>турками</persName></person> победу возвестить
+Хотел <person xml:id="02"><persName>россиянин</persName></person> с кормы <person xml:id="01"><persName>их</persName></person> флаг схватить;
+Не отнял вдруг его, колико ни старался,
+Меж волн и меж небес на воздухе остался.
+<person xml:id="02"><persName>Он</persName></person>, руки потеряв, его не отпустил,
+Всех способов лишен, зубами флаг схватил;
+<person xml:id="01"><persName>Срацин</persName></person> <person xml:id="02"><persName>его</persName></person> мечом во чрево прободает,
+Трепещет, держится, <placeName>Луну</placeName> не покидает.
+С такою твердостью <person xml:id="01"><persName>он</persName></person> храбро воевал,
+Доколь на свой корабль со флагом мертв упал.
+Тут <person xml:id="02"><persName>ратник ратника</persName></person> увидел пред очами;
+Сразились копьями, ударились мечами,
+Уставили <person xml:id="02"><persName>они</persName></person> противу груди грудь,
+Разят и грудой тел ко славе стелют путь.
+Не успевает <placeName>ад</placeName> преисполняться жертвой,
+Кто пал там, пал уже не раненый, но мертвый.
+Тот в ярости пронзить мечом <person xml:id="01"><persName>врага</persName></person> хотел,
+Но сам стрелой убит, на месте онемел.
+Иный не ведает о ранах попеченья
+И только чувствует, что он среди сраженья,
+Там вплоть отрубленна с мечом рука падет,
+Но сим мечом <person xml:id="01"><persName>врагу</persName></person> еще удар дает.
+На саблю налетел там <person xml:id="02"><persName>воин</persName></person>, штык имея,
+И движется по ней достигнуть до <person xml:id="01"><persName>злодея</persName></person>.
+Как вихрь подъемлется мгновенно от земли,
+Так быстро <person xml:id="02"><persName>воины</persName></person> на мачты потекли;
+Там стрелы <person xml:id="02"><persName>их</persName></person> грудей и копья досягают,
+<person xml:id="02"><persName>Они</persName></person> зажженные орудия свергают.
+Горящий пламенем и смертоносный град
+Поспешно обращал <person xml:id="03"><persName>Гассанов</persName></person> флот назад;
+Но тщетно <person xml:id="03"><persName>он</persName></person> из <person xml:id="02"><persName>рук российских</persName></person> вырывался,
+То к берегу спешил, то выше подавался;
+Как зверь, запутанный в расставленных сетях,
+Иль голубь, у орла биющийся в когтях,
+Не может <person xml:id="03"><persName>Бей-Гассан</persName></person> от <person xml:id="02"><persName>россов</persName></person> отцепиться.
+Ах! для чего <person xml:id="03"><persName>он</persName></person> в понт сей час не погрузится!
+Сберитесь, облака, вкруг дерзких кораблей;
+Воздвигни понт, <person xml:id="07"><persName>Нептун</persName></person>; <person xml:id="08"><persName>Юпитер</persName></person>, дождь пролей!
+Ни понт не движется, ни шумный дождь не льется,
+Уже спасения нигде не остается.
+Внимая между тем отважной брани сей,
+Бесстрашно на нее взирает <person xml:id="06"><persName>Алексей</persName></person>.
+Безвредны <person xml:id="02"><persName>россы</persName></person> с <person xml:id="06"><persName>ним</persName></person>; не чающим спасаться,
+Не смеет смерть до <person xml:id="02"><persName>них</persName></person>, не смеет прикасаться;
+Нет места для <person xml:id="06"><persName>него</persName></person>, летит по всем местам,
+Где <person xml:id="06"><persName>он</persName></person>, и слава тут; где <person xml:id="06"><persName>он</persName></person>, и счастье там;
+<person xml:id="09"><persName>Минерва</persName></person> сей корабль эгидом покрывает,
+Громам и молниям не жечь повелевает,
+Кидаясь, грозна смерть <person xml:id="01"><persName>противников</persName></person> разит,
+Но храбрых <person xml:id="02"><persName>россиян</persName></person> и смерть сама щадит;
+Стенал от ран корабль, но <person xml:id="02"><persName>россы</persName></person> невредимы;
+Бессмертны <person xml:id="02"><persName>войски</persName></person> в нем или непобедимы:
+Не устрашает <person xml:id="02"><persName>их</persName></person> военная гроза.
+Тогда простер <person xml:id="04"><persName>Орлов</persName></person> к <placeName>«Евстафию»</placeName> глаза,
+Турецкий зрит корабль в дыму, в огне, в напасти,
+У храбрых <person xml:id="02"><persName>россиян</persName></person> почти уже во власти;
+На помощь думает к <person xml:id="05"><persName>Феодору</persName></person> лететь,
+С <person xml:id="05"><persName>ним</persName></person> вместе победить иль вместе умереть,
+Но важные к тому препятства предлежали
+И дружества <person xml:id="04"><persName>его</persName></person> стремленье удержали;
+Отважность братнину <person xml:id="04"><persName>он</persName></person> внутренне винит,
+А храбрость юноши в <person xml:id="04"><persName>нем</persName></person> сердце веселит;
+<person xml:id="04"><persName>Он</persName></person> смотрит... пламень вдруг <placeName>«Евстафия»</placeName> объемлет;
+Вздрогнуло сердце в <person xml:id="04"><persName>нем</persName></person>, <person xml:id="04"><persName>он</persName></person> вопль и громы внемлет;
+Поколебалося и море и земля.
+Взглянул на сей корабль — но нет уж корабля!
+И <person xml:id="05"><persName>брата</persName></person> больше нет! Удары раздаются.
+Там части корабля волной морской несутся,
+Покрылся облаком кровавым горизонт,
+Казалось, падают из тучи люди в понт,
+Какое зрелище герою, другу, брату!
+<person xml:id="04"><persName>Он</persName></person> вдруг восчувствовал невозвратиму трату!
+«Погиб, любезный <person xml:id="05"><persName>брат</persName></person>! погиб <person xml:id="05"><persName>ты</persName></person>!» — вопиет;
+И те слова твердя, беспамятен падет.
+Не знаю лучшего печали сей примера,
+Сей грусти, жалоб сих, как в песнях у <person xml:id="13"><persName>Гомера</persName></person>;
+В таком отчаяньи был храбрый <person xml:id="10"><persName>Ахиллес</persName></person>,
+Как <person xml:id="11"><persName>Антилох</persName></person> к нему плачевну весть принес,
+Что рок, плачевный рок с <person xml:id="12"><persName>Патроклом</persName></person> совершился;
+Несчастный друг <person xml:id="10"><persName>его</persName></person> всех чувств тогда лишился,
+И только сам себя лишь начал познавать,
+Коль можно чувствами отчаянье назвать,
+Повергся, возрыдав, <person xml:id="10"><persName>герой</persName></person> на землю хладну
+И грудь к ней приложил, грудь томну, безотрадну,
+Со прахом белые власы свои смешал,
+Зеленую траву слезами орошал;
+Искал оружия, просил у предстоящих,
+Для пресечения мучений, дух томящих.
+Великою душой и мужеством таков,
+Но тверже во своем отчаяньи <person xml:id="04"><persName>Орлов</persName></person>;
+Познав, что <person xml:id="05"><persName>брата</persName></person> слез поток не воскрешает,
+Отмщать за братню смерть <person xml:id="01"><persName>срацинам</persName></person> поспешает;
+<person xml:id="04"><persName>Он</persName></person> видит вкруг себя стоящи дружбу, честь,
+Родство, отечество, на праведную месть
+Геройский дух <person xml:id="04"><persName>его</persName></person> ко подвигу зовущих,
+«Проснись, <person xml:id="04"><persName>Орлов!</persName></person> и мсти за <person xml:id="05"><persName>брата!</persName></person>» — вопиющих.
+Как страшный, отходя от человека, сон
+Еще крутит <person xml:id="04"><persName>его</persName></person> и извлекает стон, —
+Так, скорбию своей <person xml:id="04"><persName>Орлов</persName></person> обремененный,
+Подвигся храбростью и местью распаленный;
+На власть небесную устами <person xml:id="04"><persName>он</persName></person> роптал,
+Но сердцем божеский <person xml:id="04"><persName>он</persName></person> промысл почитал;
+«Пойдем, <person xml:id="02"><persName>друзья мои</persName></person>! — вещает предстоящим, —
+Ударим вслед <person xml:id="01"><persName>врагам</persName></person>, от <person xml:id="02"><persName>нас</persName></person> уйти хотящим,
+Злодеев истребить геройский подвиг есть!
+Исполнить то велят <placeName>Россия</placeName> нам и честь;
+Нам кровь, текущая с кипящими струями,
+<person xml:id="05"><persName>Феодорова тень</persName></person>, виясь над кораблями,
+Друзья вещают <person xml:id="02"><persName>нам</persName></person>, которых мы не зрим,
+Что страждут души <person xml:id="01"><persName>их</persName></person>, коль <person xml:id="02"><persName>мы</persName></person> не отомстим!
+    </text>
+</TEI>
+
